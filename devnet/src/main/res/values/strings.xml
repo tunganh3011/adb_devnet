@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevNet ADB</string>
+    <string name="tile_label">ADB Wi-Fi</string>
+    <string name="tile_dns_label">AdGuard DNS</string>
+    <string name="open_navigation_menu">Mở menu điều hướng</string>
+    <string name="theme_selection">Giao diện: %1$s</string>
+    <string name="theme_system">Hệ thống</string>
+    <string name="theme_light">Sáng</string>
+    <string name="theme_dark">Tối</string>
+</resources>
